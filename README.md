@@ -2,7 +2,7 @@
 
 [Download Relay for Windows](https://github.com/cmp07/relay-releases/releases/latest/download/Relay-Windows.zip)
 
-Download Relay-Windows.zip, extract the complete folder, then open Start Relay.cmd.
+Download Relay-Windows.zip, extract the complete folder, then open Relay.cmd.
 This is an early Windows beta. Keep the extracted application folder together.
 
 Relay checks signed updates in its Updates panel. Save drafts before installing and restarting.
